@@ -1,0 +1,13 @@
+npm install json-server
+
+crear el db.json
+
+se crea base de datos 
+
+luego se hace el index.js 
+
+ "scripts": {
+    "test": "json-server --watch db.json"
+  },
+
+  dale npm init para que te agarre el json
